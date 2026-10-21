@@ -4,8 +4,8 @@
   "files": [
     {
       "path": "README.md",
-      "bytes": 2294,
-      "sha256": "f8906e70997eff0e5978cd9dd6ad5f76a2ab05344b1439d4b5f5f1b58c1b9e11"
+      "bytes": 3316,
+      "sha256": "bf2d6990257a6b7ed992be84ab026e76faf7897b57c421e00160cf8c57a13b77"
     },
     {
       "path": "test_engine.mjs",
@@ -47,5 +47,8 @@
     "Central DB, coordination records, participant details and mail content",
     "Design reference/prompt and temporary QA helpers"
   ],
-  "status": "LOCAL_PROTOTYPE_NOT_REGISTERED_OR_SUBMITTED"
+  "status": "SUBMISSION_CONFIRMED_2026-10-20_KST",
+  "project_page": "https://devpost.com/software/graphspeak",
+  "demo_url": "https://estona815.github.io/graphspeak/",
+  "submission_evidence_scope": "Historical platform confirmation, not a judging result or award."
 }
